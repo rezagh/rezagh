@@ -2,10 +2,6 @@
 
 Finally a text based website!
 
-My name is Reza. I am a father, husband and software developer.
-
-I love patterns, IoT, Linux, Cloud, DevOps and human aspects of IT industry...
-
 More about me on [LinkedIn](http://au.linkedin.com/in/rezag), [Twitter](http://twitter.com/rezaghp), [Github](https://github.com/rezagh), [Weblog](https://rezagh.wordpress.com/), [Memes]()
 
 
