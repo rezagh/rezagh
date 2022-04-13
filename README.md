@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-More about me on my [LinkedIn](http://au.linkedin.com/in/rezag), [Twitter](http://twitter.com/rezaghp), [Weblog](https://rezagh.wordpress.com/), [Memes]()
-
+More about me on my [LinkedIn](http://au.linkedin.com/in/rezag), [Twitter](http://twitter.com/rezaghp), [Weblog](https://rezagh.wordpress.com/)
 
 <!--
 **rezagh/rezagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
