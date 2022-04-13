@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-More about me on [LinkedIn](http://au.linkedin.com/in/rezag), [Twitter](http://twitter.com/rezaghp), [Github](https://github.com/rezagh), [Weblog](https://rezagh.wordpress.com/), [Memes]()
+More about me on my [LinkedIn](http://au.linkedin.com/in/rezag), [Twitter](http://twitter.com/rezaghp), [Weblog](https://rezagh.wordpress.com/), [Memes]()
 
 
 <!--
